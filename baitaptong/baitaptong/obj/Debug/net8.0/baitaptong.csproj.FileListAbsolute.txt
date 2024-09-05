@@ -1,0 +1,14 @@
+C:\Users\buidi\source\repos\baitaptong\baitaptong\bin\Debug\net8.0\baitaptong.exe
+C:\Users\buidi\source\repos\baitaptong\baitaptong\bin\Debug\net8.0\baitaptong.deps.json
+C:\Users\buidi\source\repos\baitaptong\baitaptong\bin\Debug\net8.0\baitaptong.runtimeconfig.json
+C:\Users\buidi\source\repos\baitaptong\baitaptong\bin\Debug\net8.0\baitaptong.dll
+C:\Users\buidi\source\repos\baitaptong\baitaptong\bin\Debug\net8.0\baitaptong.pdb
+C:\Users\buidi\source\repos\baitaptong\baitaptong\obj\Debug\net8.0\baitaptong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buidi\source\repos\baitaptong\baitaptong\obj\Debug\net8.0\baitaptong.AssemblyInfoInputs.cache
+C:\Users\buidi\source\repos\baitaptong\baitaptong\obj\Debug\net8.0\baitaptong.AssemblyInfo.cs
+C:\Users\buidi\source\repos\baitaptong\baitaptong\obj\Debug\net8.0\baitaptong.csproj.CoreCompileInputs.cache
+C:\Users\buidi\source\repos\baitaptong\baitaptong\obj\Debug\net8.0\baitaptong.dll
+C:\Users\buidi\source\repos\baitaptong\baitaptong\obj\Debug\net8.0\refint\baitaptong.dll
+C:\Users\buidi\source\repos\baitaptong\baitaptong\obj\Debug\net8.0\baitaptong.pdb
+C:\Users\buidi\source\repos\baitaptong\baitaptong\obj\Debug\net8.0\baitaptong.genruntimeconfig.cache
+C:\Users\buidi\source\repos\baitaptong\baitaptong\obj\Debug\net8.0\ref\baitaptong.dll
