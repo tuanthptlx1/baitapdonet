@@ -1,0 +1,14 @@
+C:\Users\buidi\source\repos\bt3\bt3\bin\Debug\net8.0\bt3.exe
+C:\Users\buidi\source\repos\bt3\bt3\bin\Debug\net8.0\bt3.deps.json
+C:\Users\buidi\source\repos\bt3\bt3\bin\Debug\net8.0\bt3.runtimeconfig.json
+C:\Users\buidi\source\repos\bt3\bt3\bin\Debug\net8.0\bt3.dll
+C:\Users\buidi\source\repos\bt3\bt3\bin\Debug\net8.0\bt3.pdb
+C:\Users\buidi\source\repos\bt3\bt3\obj\Debug\net8.0\bt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buidi\source\repos\bt3\bt3\obj\Debug\net8.0\bt3.AssemblyInfoInputs.cache
+C:\Users\buidi\source\repos\bt3\bt3\obj\Debug\net8.0\bt3.AssemblyInfo.cs
+C:\Users\buidi\source\repos\bt3\bt3\obj\Debug\net8.0\bt3.csproj.CoreCompileInputs.cache
+C:\Users\buidi\source\repos\bt3\bt3\obj\Debug\net8.0\bt3.dll
+C:\Users\buidi\source\repos\bt3\bt3\obj\Debug\net8.0\refint\bt3.dll
+C:\Users\buidi\source\repos\bt3\bt3\obj\Debug\net8.0\bt3.pdb
+C:\Users\buidi\source\repos\bt3\bt3\obj\Debug\net8.0\bt3.genruntimeconfig.cache
+C:\Users\buidi\source\repos\bt3\bt3\obj\Debug\net8.0\ref\bt3.dll

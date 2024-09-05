@@ -1,0 +1,14 @@
+C:\Users\buidi\source\repos\baitap6\baitap6\obj\Debug\net8.0\baitap6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buidi\source\repos\baitap6\baitap6\obj\Debug\net8.0\baitap6.AssemblyInfoInputs.cache
+C:\Users\buidi\source\repos\baitap6\baitap6\obj\Debug\net8.0\baitap6.AssemblyInfo.cs
+C:\Users\buidi\source\repos\baitap6\baitap6\obj\Debug\net8.0\baitap6.csproj.CoreCompileInputs.cache
+C:\Users\buidi\source\repos\baitap6\baitap6\bin\Debug\net8.0\baitap6.exe
+C:\Users\buidi\source\repos\baitap6\baitap6\bin\Debug\net8.0\baitap6.deps.json
+C:\Users\buidi\source\repos\baitap6\baitap6\bin\Debug\net8.0\baitap6.runtimeconfig.json
+C:\Users\buidi\source\repos\baitap6\baitap6\bin\Debug\net8.0\baitap6.dll
+C:\Users\buidi\source\repos\baitap6\baitap6\bin\Debug\net8.0\baitap6.pdb
+C:\Users\buidi\source\repos\baitap6\baitap6\obj\Debug\net8.0\baitap6.dll
+C:\Users\buidi\source\repos\baitap6\baitap6\obj\Debug\net8.0\refint\baitap6.dll
+C:\Users\buidi\source\repos\baitap6\baitap6\obj\Debug\net8.0\baitap6.pdb
+C:\Users\buidi\source\repos\baitap6\baitap6\obj\Debug\net8.0\baitap6.genruntimeconfig.cache
+C:\Users\buidi\source\repos\baitap6\baitap6\obj\Debug\net8.0\ref\baitap6.dll

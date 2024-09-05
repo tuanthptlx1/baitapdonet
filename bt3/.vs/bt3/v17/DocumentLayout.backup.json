@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buidi\\source\\repos\\bt3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C14A0C0D-A8A5-4D40-92B6-2745DD53B034}|bt3\\bt3.csproj|c:\\users\\buidi\\source\\repos\\bt3\\bt3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14A0C0D-A8A5-4D40-92B6-2745DD53B034}|bt3\\bt3.csproj|solutionrelative:bt3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buidi\\source\\repos\\bt3\\bt3\\Program.cs",
+              "RelativeDocumentMoniker": "bt3\\Program.cs",
+              "ToolTip": "C:\\Users\\buidi\\source\\repos\\bt3\\bt3\\Program.cs",
+              "RelativeToolTip": "bt3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:24:52.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

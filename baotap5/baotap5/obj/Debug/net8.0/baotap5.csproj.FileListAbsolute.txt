@@ -1,0 +1,14 @@
+C:\Users\buidi\source\repos\baotap5\baotap5\bin\Debug\net8.0\baotap5.exe
+C:\Users\buidi\source\repos\baotap5\baotap5\bin\Debug\net8.0\baotap5.deps.json
+C:\Users\buidi\source\repos\baotap5\baotap5\bin\Debug\net8.0\baotap5.runtimeconfig.json
+C:\Users\buidi\source\repos\baotap5\baotap5\bin\Debug\net8.0\baotap5.dll
+C:\Users\buidi\source\repos\baotap5\baotap5\bin\Debug\net8.0\baotap5.pdb
+C:\Users\buidi\source\repos\baotap5\baotap5\obj\Debug\net8.0\baotap5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buidi\source\repos\baotap5\baotap5\obj\Debug\net8.0\baotap5.AssemblyInfoInputs.cache
+C:\Users\buidi\source\repos\baotap5\baotap5\obj\Debug\net8.0\baotap5.AssemblyInfo.cs
+C:\Users\buidi\source\repos\baotap5\baotap5\obj\Debug\net8.0\baotap5.csproj.CoreCompileInputs.cache
+C:\Users\buidi\source\repos\baotap5\baotap5\obj\Debug\net8.0\baotap5.dll
+C:\Users\buidi\source\repos\baotap5\baotap5\obj\Debug\net8.0\refint\baotap5.dll
+C:\Users\buidi\source\repos\baotap5\baotap5\obj\Debug\net8.0\baotap5.pdb
+C:\Users\buidi\source\repos\baotap5\baotap5\obj\Debug\net8.0\baotap5.genruntimeconfig.cache
+C:\Users\buidi\source\repos\baotap5\baotap5\obj\Debug\net8.0\ref\baotap5.dll
