@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\buidi\\source\\repos\\baitap\\",
+  "WorkspaceRootPath": "E:\\luu upload\\baitapdonet\\baitap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90E3E674-E56B-4AC0-B84A-657C2100169C}|baitap\\baitap.csproj|c:\\users\\buidi\\source\\repos\\baitap\\baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90E3E674-E56B-4AC0-B84A-657C2100169C}|baitap\\baitap.csproj|e:\\luu upload\\baitapdonet\\baitap\\baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90E3E674-E56B-4AC0-B84A-657C2100169C}|baitap\\baitap.csproj|solutionrelative:baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\buidi\\source\\repos\\baitap\\baitap\\Program.cs",
+              "DocumentMoniker": "E:\\luu upload\\baitapdonet\\baitap\\baitap\\Program.cs",
               "RelativeDocumentMoniker": "baitap\\Program.cs",
-              "ToolTip": "C:\\Users\\buidi\\source\\repos\\baitap\\baitap\\Program.cs",
+              "ToolTip": "E:\\luu upload\\baitapdonet\\baitap\\baitap\\Program.cs",
               "RelativeToolTip": "baitap\\Program.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T08:19:07.703Z",
               "EditorCaption": ""
