@@ -93,7 +93,7 @@ public class Accessory : Product, ISellable
     {
         Console.WriteLine($"Accessory - Name: {Name}, Price: {Price:C}, Stock: {Stock}");
     }
- 
+
     public override void ApplyDiscount(decimal percentage)
     {
         Price -= Price * (percentage / 100);
@@ -122,16 +122,16 @@ class Program
 {
     static void Main()
     {
-      
-        MobilePhone phone = new MobilePhone("Samsung Galaxy S23", 999.99m, 10);
-        Laptop laptop = new Laptop("Dell XPS 15", 1499.99m, 5);
-        Accessory accessory = new Accessory("USB-C Charger", 29.99m, 20);
+
+        MobilePhone phone = new MobilePhone("samsung galaxy S24", 2500.99m, 6);
+        Laptop laptop = new Laptop("hp victus", 1999.69m, 9);
+        Accessory accessory = new Accessory("USB-C", 29.99m, 40);
 
         phone.DisplayProductInfo();
         laptop.DisplayProductInfo();
         accessory.DisplayProductInfo();
 
-        
+
         phone.Sell(3);
         Console.WriteLine($"Phone in stock: {phone.IsInStock()}");
 
@@ -142,9 +142,9 @@ class Program
         Console.WriteLine($"Accessory in stock: {accessory.IsInStock()}");
 
 
-        phone.ApplyDiscount(10); 
-        laptop.ApplyDiscount(15); 
-        accessory.ApplyDiscount(5); 
+        phone.ApplyDiscount(10);
+        laptop.ApplyDiscount(15);
+        accessory.ApplyDiscount(5);
         phone.DisplayProductInfo();
         laptop.DisplayProductInfo();
         accessory.DisplayProductInfo();
