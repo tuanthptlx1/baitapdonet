@@ -1,0 +1,14 @@
+from pydub import AudioSegment
+from pydub.playback import play
+from pydub.silence import split_on_silence
+
+# Load the audio files
+audio_file_1 = AudioSegment.from_mp3("/mnt/data/Track 1.4.mp3")
+audio_file_2 = AudioSegment.from_mp3("/mnt/data/Track 1.6.mp3")
+
+# Split audio files into segments by silence (for potential question and answer separation)
+chunks_1 = split_on_silence(audio_file_1, min_silence_len=500, silence_thresh=-40)
+chunks_2 = split_on_silence(audio_file_2, min_silence_len=500, silence_thresh=-40)
+
+# Output the number of chunks found in both tracks
+len(chunks_1), len(chunks_2)
