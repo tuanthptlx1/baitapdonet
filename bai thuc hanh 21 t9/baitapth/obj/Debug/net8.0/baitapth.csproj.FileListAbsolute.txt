@@ -1,0 +1,14 @@
+C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\baitapth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\baitapth.AssemblyInfoInputs.cache
+C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\baitapth.AssemblyInfo.cs
+C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\baitapth.csproj.CoreCompileInputs.cache
+C:\Users\buidi\source\repos\baitapth\baitapth\bin\Debug\net8.0\baitapth.exe
+C:\Users\buidi\source\repos\baitapth\baitapth\bin\Debug\net8.0\baitapth.deps.json
+C:\Users\buidi\source\repos\baitapth\baitapth\bin\Debug\net8.0\baitapth.runtimeconfig.json
+C:\Users\buidi\source\repos\baitapth\baitapth\bin\Debug\net8.0\baitapth.dll
+C:\Users\buidi\source\repos\baitapth\baitapth\bin\Debug\net8.0\baitapth.pdb
+C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\baitapth.dll
+C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\refint\baitapth.dll
+C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\baitapth.pdb
+C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\baitapth.genruntimeconfig.cache
+C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\ref\baitapth.dll

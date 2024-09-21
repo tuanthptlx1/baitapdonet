@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buidi\\source\\repos\\baitapth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87ED2A9A-C0BD-4641-9E5A-77141448DB61}|baitapth\\baitapth.csproj|c:\\users\\buidi\\source\\repos\\baitapth\\baitapth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ED2A9A-C0BD-4641-9E5A-77141448DB61}|baitapth\\baitapth.csproj|solutionrelative:baitapth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buidi\\source\\repos\\baitapth\\baitapth\\Program.cs",
+              "RelativeDocumentMoniker": "baitapth\\Program.cs",
+              "ToolTip": "C:\\Users\\buidi\\source\\repos\\baitapth\\baitapth\\Program.cs",
+              "RelativeToolTip": "baitapth\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:48:27.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
