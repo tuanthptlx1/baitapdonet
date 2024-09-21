@@ -12,3 +12,18 @@ C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\refint\baitapth.d
 C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\baitapth.pdb
 C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\baitapth.genruntimeconfig.cache
 C:\Users\buidi\source\repos\baitapth\baitapth\obj\Debug\net8.0\ref\baitapth.dll
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\bin\Debug\net8.0\baitapth.exe
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\bin\Debug\net8.0\baitapth.deps.json
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\bin\Debug\net8.0\baitapth.runtimeconfig.json
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\bin\Debug\net8.0\baitapth.dll
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\bin\Debug\net8.0\baitapth.pdb
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\obj\Debug\net8.0\baitapth.GeneratedMSBuildEditorConfig.editorconfig
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\obj\Debug\net8.0\baitapth.AssemblyInfoInputs.cache
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\obj\Debug\net8.0\baitapth.AssemblyInfo.cs
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\obj\Debug\net8.0\baitapth.csproj.CoreCompileInputs.cache
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\obj\Debug\net8.0\baitapth.sourcelink.json
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\obj\Debug\net8.0\baitapth.dll
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\obj\Debug\net8.0\refint\baitapth.dll
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\obj\Debug\net8.0\baitapth.pdb
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\obj\Debug\net8.0\baitapth.genruntimeconfig.cache
+E:\luu upload\baitapdonet\bai thuc hanh 21 t9\baitapth\obj\Debug\net8.0\ref\baitapth.dll

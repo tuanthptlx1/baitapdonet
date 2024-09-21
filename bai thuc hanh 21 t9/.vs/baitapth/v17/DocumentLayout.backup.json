@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\buidi\\source\\repos\\baitapth\\",
+  "WorkspaceRootPath": "E:\\luu upload\\baitapdonet\\bai thuc hanh 21 t9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87ED2A9A-C0BD-4641-9E5A-77141448DB61}|baitapth\\baitapth.csproj|c:\\users\\buidi\\source\\repos\\baitapth\\baitapth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87ED2A9A-C0BD-4641-9E5A-77141448DB61}|baitapth\\baitapth.csproj|e:\\luu upload\\baitapdonet\\bai thuc hanh 21 t9\\baitapth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87ED2A9A-C0BD-4641-9E5A-77141448DB61}|baitapth\\baitapth.csproj|solutionrelative:baitapth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\buidi\\source\\repos\\baitapth\\baitapth\\Program.cs",
+              "DocumentMoniker": "E:\\luu upload\\baitapdonet\\bai thuc hanh 21 t9\\baitapth\\Program.cs",
               "RelativeDocumentMoniker": "baitapth\\Program.cs",
-              "ToolTip": "C:\\Users\\buidi\\source\\repos\\baitapth\\baitapth\\Program.cs",
-              "RelativeToolTip": "baitapth\\Program.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFEAAAAdAAAAAAAAAA==",
+              "ToolTip": "E:\\luu upload\\baitapdonet\\bai thuc hanh 21 t9\\baitapth\\Program.cs*",
+              "RelativeToolTip": "baitapth\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA1wBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T05:48:27.815Z",
               "EditorCaption": ""

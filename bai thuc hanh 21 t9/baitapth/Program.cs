@@ -9,7 +9,18 @@ public class SinhVien
     public string MSSV { get; set; }
     public double DiemTrungBinh { get; set; }
 
-    public SinhVien() { }
+    public SinhVien()
+    {
+        HoTen = "";
+        MSSV = "";
+        DiemTrungBinh = 0.0;
+    }
+    public SinhVien(string HoTen, string MSSV, double DiemTrungBinh)
+    {
+        this.HoTen = HoTen;
+        this.MSSV = MSSV;
+        this.DiemTrungBinh = DiemTrungBinh;
+    }
     public void NhapThongTin()
     {
         Console.Write("Nhap ho ten sinh vien: ");

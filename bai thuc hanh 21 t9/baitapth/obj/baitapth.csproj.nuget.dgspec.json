@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\buidi\\source\\repos\\baitapth\\baitapth\\baitapth.csproj": {}
+    "E:\\luu upload\\baitapdonet\\bai thuc hanh 21 t9\\baitapth\\baitapth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\buidi\\source\\repos\\baitapth\\baitapth\\baitapth.csproj": {
+    "E:\\luu upload\\baitapdonet\\bai thuc hanh 21 t9\\baitapth\\baitapth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\buidi\\source\\repos\\baitapth\\baitapth\\baitapth.csproj",
+        "projectUniqueName": "E:\\luu upload\\baitapdonet\\bai thuc hanh 21 t9\\baitapth\\baitapth.csproj",
         "projectName": "baitapth",
-        "projectPath": "C:\\Users\\buidi\\source\\repos\\baitapth\\baitapth\\baitapth.csproj",
+        "projectPath": "E:\\luu upload\\baitapdonet\\bai thuc hanh 21 t9\\baitapth\\baitapth.csproj",
         "packagesPath": "C:\\Users\\buidi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\buidi\\source\\repos\\baitapth\\baitapth\\obj\\",
+        "outputPath": "E:\\luu upload\\baitapdonet\\bai thuc hanh 21 t9\\baitapth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\buidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
