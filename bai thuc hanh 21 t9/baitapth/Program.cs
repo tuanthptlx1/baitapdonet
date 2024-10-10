@@ -20,7 +20,7 @@ public class SinhVien
         this.HoTen = HoTen;
         this.MSSV = MSSV;
         this.DiemTrungBinh = DiemTrungBinh;
-    }
+    } 
     public void NhapThongTin()
     {
         Console.Write("Nhap ho ten sinh vien: ");

@@ -1,0 +1,16 @@
+D:\C#\bai 10-10\bai 10-10\bin\Debug\net8.0-windows\bai 10-10.exe
+D:\C#\bai 10-10\bai 10-10\bin\Debug\net8.0-windows\bai 10-10.deps.json
+D:\C#\bai 10-10\bai 10-10\bin\Debug\net8.0-windows\bai 10-10.runtimeconfig.json
+D:\C#\bai 10-10\bai 10-10\bin\Debug\net8.0-windows\bai 10-10.dll
+D:\C#\bai 10-10\bai 10-10\bin\Debug\net8.0-windows\bai 10-10.pdb
+D:\C#\bai 10-10\bai 10-10\obj\Debug\net8.0-windows\bai_10_10.Form1.resources
+D:\C#\bai 10-10\bai 10-10\obj\Debug\net8.0-windows\bai 10-10.csproj.GenerateResource.cache
+D:\C#\bai 10-10\bai 10-10\obj\Debug\net8.0-windows\bai 10-10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\bai 10-10\bai 10-10\obj\Debug\net8.0-windows\bai 10-10.AssemblyInfoInputs.cache
+D:\C#\bai 10-10\bai 10-10\obj\Debug\net8.0-windows\bai 10-10.AssemblyInfo.cs
+D:\C#\bai 10-10\bai 10-10\obj\Debug\net8.0-windows\bai 10-10.csproj.CoreCompileInputs.cache
+D:\C#\bai 10-10\bai 10-10\obj\Debug\net8.0-windows\bai 10-10.dll
+D:\C#\bai 10-10\bai 10-10\obj\Debug\net8.0-windows\refint\bai 10-10.dll
+D:\C#\bai 10-10\bai 10-10\obj\Debug\net8.0-windows\bai 10-10.pdb
+D:\C#\bai 10-10\bai 10-10\obj\Debug\net8.0-windows\bai 10-10.genruntimeconfig.cache
+D:\C#\bai 10-10\bai 10-10\obj\Debug\net8.0-windows\ref\bai 10-10.dll
