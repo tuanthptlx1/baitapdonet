@@ -1,2 +1,2 @@
-![Alt text](path/to/anh17-10.jpg)
+![Alt text](baitapdonet/image/anh17-10.jpg)
 
