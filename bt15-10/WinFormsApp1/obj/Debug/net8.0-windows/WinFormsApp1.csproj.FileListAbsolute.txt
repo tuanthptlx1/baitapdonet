@@ -14,3 +14,20 @@ C:\Users\buidi\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\r
 C:\Users\buidi\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 C:\Users\buidi\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\buidi\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\luu upload\baitapdonet\bt15-10\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
