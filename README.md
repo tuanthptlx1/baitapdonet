@@ -1,2 +1,2 @@
-![Alt text](baitapdonet/image/anh17-10.jpg)
+![Alt text](image/anh17-10.jpg)
 
