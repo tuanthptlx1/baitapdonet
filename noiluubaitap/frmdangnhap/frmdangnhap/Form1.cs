@@ -5,6 +5,7 @@
         public Form1()
         {
             InitializeComponent();
+            textBox2.PasswordChar = '*';
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

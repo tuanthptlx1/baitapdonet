@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\buidi\\source\\repos\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3.csproj",
+      "projectUniqueName": "E:\\luu upload\\baitapdonet\\noiluubaitap\\bt17-10\\WinFormsApp3\\WinFormsApp3.csproj",
       "projectName": "WinFormsApp3",
-      "projectPath": "C:\\Users\\buidi\\source\\repos\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3.csproj",
+      "projectPath": "E:\\luu upload\\baitapdonet\\noiluubaitap\\bt17-10\\WinFormsApp3\\WinFormsApp3.csproj",
       "packagesPath": "C:\\Users\\buidi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\buidi\\source\\repos\\WinFormsApp3\\WinFormsApp3\\obj\\",
+      "outputPath": "E:\\luu upload\\baitapdonet\\noiluubaitap\\bt17-10\\WinFormsApp3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\buidi\\AppData\\Roaming\\NuGet\\NuGet.Config",

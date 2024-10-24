@@ -14,3 +14,20 @@ C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\ref
 C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.pdb
 C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.genruntimeconfig.cache
 C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\ref\frmdangnhap.dll
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\bin\Debug\net8.0-windows\frmdangnhap.exe
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\bin\Debug\net8.0-windows\frmdangnhap.deps.json
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\bin\Debug\net8.0-windows\frmdangnhap.runtimeconfig.json
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\bin\Debug\net8.0-windows\frmdangnhap.dll
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\bin\Debug\net8.0-windows\frmdangnhap.pdb
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.Form1.resources
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.csproj.GenerateResource.cache
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.GeneratedMSBuildEditorConfig.editorconfig
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.AssemblyInfoInputs.cache
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.AssemblyInfo.cs
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.csproj.CoreCompileInputs.cache
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.sourcelink.json
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.dll
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\refint\frmdangnhap.dll
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.pdb
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.genruntimeconfig.cache
+E:\luu upload\baitapdonet\noiluubaitap\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\ref\frmdangnhap.dll
