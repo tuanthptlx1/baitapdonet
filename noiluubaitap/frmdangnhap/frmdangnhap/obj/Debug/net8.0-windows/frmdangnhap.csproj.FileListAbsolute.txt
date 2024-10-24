@@ -1,0 +1,16 @@
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\bin\Debug\net8.0-windows\frmdangnhap.exe
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\bin\Debug\net8.0-windows\frmdangnhap.deps.json
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\bin\Debug\net8.0-windows\frmdangnhap.runtimeconfig.json
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\bin\Debug\net8.0-windows\frmdangnhap.dll
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\bin\Debug\net8.0-windows\frmdangnhap.pdb
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.Form1.resources
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.csproj.GenerateResource.cache
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.AssemblyInfoInputs.cache
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.AssemblyInfo.cs
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.csproj.CoreCompileInputs.cache
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.dll
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\refint\frmdangnhap.dll
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.pdb
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\frmdangnhap.genruntimeconfig.cache
+C:\Users\buidi\source\repos\frmdangnhap\frmdangnhap\obj\Debug\net8.0-windows\ref\frmdangnhap.dll
