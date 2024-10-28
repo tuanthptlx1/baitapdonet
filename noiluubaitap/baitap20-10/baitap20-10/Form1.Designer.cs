@@ -58,7 +58,7 @@
             groupBox1.Controls.Add(textBox1);
             groupBox1.Location = new Point(12, 12);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(534, 223);
+            groupBox1.Size = new Size(534, 216);
             groupBox1.TabIndex = 0;
             groupBox1.TabStop = false;
             groupBox1.Text = "Thông tin";
@@ -121,12 +121,13 @@
             groupBox2.Controls.Add(button3);
             groupBox2.Controls.Add(button2);
             groupBox2.Controls.Add(button1);
-            groupBox2.Location = new Point(12, 257);
+            groupBox2.Location = new Point(12, 243);
             groupBox2.Name = "groupBox2";
             groupBox2.Size = new Size(534, 125);
             groupBox2.TabIndex = 1;
             groupBox2.TabStop = false;
             groupBox2.Text = "Chức năng";
+            groupBox2.Enter += groupBox2_Enter;
             // 
             // button4
             // 
@@ -173,7 +174,7 @@
             groupBox3.Controls.Add(dataGridView1);
             groupBox3.Location = new Point(552, 12);
             groupBox3.Name = "groupBox3";
-            groupBox3.Size = new Size(440, 370);
+            groupBox3.Size = new Size(442, 356);
             groupBox3.TabIndex = 2;
             groupBox3.TabStop = false;
             groupBox3.Text = "Dữ liệu";
@@ -182,10 +183,10 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(6, 21);
+            dataGridView1.Location = new Point(5, 26);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(428, 349);
+            dataGridView1.Size = new Size(426, 328);
             dataGridView1.TabIndex = 0;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
@@ -193,7 +194,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(993, 409);
+            ClientSize = new Size(1002, 371);
             Controls.Add(groupBox3);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);

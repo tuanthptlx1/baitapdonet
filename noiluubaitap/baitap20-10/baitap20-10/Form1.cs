@@ -10,10 +10,11 @@
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            
-                dataGridView1.Columns.Add("MaSinhVien", "Mã Sinh Viên");
-                dataGridView1.Columns.Add("Ten", "Tên");
-                dataGridView1.Columns.Add("Lop", "Lớp");
+
+            dataGridView1.Columns.Add("MaSinhVien", "Mã Sinh Viên");
+            dataGridView1.Columns.Add("Ten", "Tên");
+            dataGridView1.Columns.Add("Lop", "Lớp");
+           
 
         }
         private void groupBox3_Enter(object sender, EventArgs e)
@@ -96,6 +97,7 @@
                 selectedRow.Cells[1].Value = textBox2.Text;
                 selectedRow.Cells[2].Value = textBox3.Text;
 
+
                 clearInputFields();
             }
             else
@@ -113,6 +115,7 @@
                 textBox1.Text = row.Cells[0].Value?.ToString() ?? "";
                 textBox2.Text = row.Cells[1].Value?.ToString() ?? "";
                 textBox3.Text = row.Cells[2].Value?.ToString() ?? "";
+             
             }
         }
         private void clearInputFields()
@@ -121,7 +124,23 @@
             textBox1.Text = "";
             textBox2.Text = "";
             textBox3.Text = "";
+        
 
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)//noi nhap timkiem
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)//nut timkiem
+        {
+            
         }
     }
 }

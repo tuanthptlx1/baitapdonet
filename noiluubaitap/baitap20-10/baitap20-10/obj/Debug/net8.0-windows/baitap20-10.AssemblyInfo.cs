@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("baitap20-10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f1e3cfb1e1831820d0df8b43dfb2ef96867bc2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7380577670a2e8f79aae2ee9d029c18c322bc5bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("baitap20-10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("baitap20-10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
