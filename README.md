@@ -4,3 +4,6 @@ Nguyễn Anh Tuấn msv 22810310003
 ![Alt text](image/formdk.png)
 
 ![Alt text](image/formnv.png)
+
+31-10
+![Alt text](image/anhbaikiemtra2.jpg)
