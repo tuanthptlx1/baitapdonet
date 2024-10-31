@@ -1,0 +1,33 @@
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.Form1.resources
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.csproj.GenerateResource.cache
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.AssemblyInfoInputs.cache
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.AssemblyInfo.cs
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.csproj.CoreCompileInputs.cache
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\bin\Debug\net8.0-windows\baikiemtra2.exe
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\bin\Debug\net8.0-windows\baikiemtra2.deps.json
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\bin\Debug\net8.0-windows\baikiemtra2.runtimeconfig.json
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\bin\Debug\net8.0-windows\baikiemtra2.dll
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\bin\Debug\net8.0-windows\baikiemtra2.pdb
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.dll
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\refint\baikiemtra2.dll
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.pdb
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.genruntimeconfig.cache
+C:\Users\buidi\source\repos\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\ref\baikiemtra2.dll
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\bin\Debug\net8.0-windows\baikiemtra2.exe
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\bin\Debug\net8.0-windows\baikiemtra2.deps.json
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\bin\Debug\net8.0-windows\baikiemtra2.runtimeconfig.json
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\bin\Debug\net8.0-windows\baikiemtra2.dll
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\bin\Debug\net8.0-windows\baikiemtra2.pdb
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.Form1.resources
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.csproj.GenerateResource.cache
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.GeneratedMSBuildEditorConfig.editorconfig
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.AssemblyInfoInputs.cache
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.AssemblyInfo.cs
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.csproj.CoreCompileInputs.cache
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.sourcelink.json
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.dll
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\refint\baikiemtra2.dll
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.pdb
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\baikiemtra2.genruntimeconfig.cache
+E:\luu upload\baitapdonet\noiluubaitap\baikiemtra2\baikiemtra2\obj\Debug\net8.0-windows\ref\baikiemtra2.dll

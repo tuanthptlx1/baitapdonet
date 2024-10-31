@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\luu upload\\baitapdonet\\noiluubaitap\\baitap28-10\\baitap20-10\\baitap20-10.csproj": {}
+    "E:\\luu upload\\baitapdonet\\noiluubaitap\\baikiemtra2\\baikiemtra2\\baikiemtra2.csproj": {}
   },
   "projects": {
-    "E:\\luu upload\\baitapdonet\\noiluubaitap\\baitap28-10\\baitap20-10\\baitap20-10.csproj": {
+    "E:\\luu upload\\baitapdonet\\noiluubaitap\\baikiemtra2\\baikiemtra2\\baikiemtra2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\luu upload\\baitapdonet\\noiluubaitap\\baitap28-10\\baitap20-10\\baitap20-10.csproj",
-        "projectName": "baitap20-10",
-        "projectPath": "E:\\luu upload\\baitapdonet\\noiluubaitap\\baitap28-10\\baitap20-10\\baitap20-10.csproj",
+        "projectUniqueName": "E:\\luu upload\\baitapdonet\\noiluubaitap\\baikiemtra2\\baikiemtra2\\baikiemtra2.csproj",
+        "projectName": "baikiemtra2",
+        "projectPath": "E:\\luu upload\\baitapdonet\\noiluubaitap\\baikiemtra2\\baikiemtra2\\baikiemtra2.csproj",
         "packagesPath": "C:\\Users\\buidi\\.nuget\\packages\\",
-        "outputPath": "E:\\luu upload\\baitapdonet\\noiluubaitap\\baitap28-10\\baitap20-10\\obj\\",
+        "outputPath": "E:\\luu upload\\baitapdonet\\noiluubaitap\\baikiemtra2\\baikiemtra2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\buidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
