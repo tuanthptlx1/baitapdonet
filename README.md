@@ -7,5 +7,5 @@ Nguyễn Anh Tuấn msv 22810310003
 
 31-10
 ![Alt text](image/anhbaikiemtra2.jpg)
-5-111
-![Alt text](image/anh5.jpg)
+5-11
+![Alt text](image/anh5-11.jpg)
