@@ -1,0 +1,17 @@
+C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5_11.Customer.resources
+C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5_11.Form1.resources
+C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.csproj.GenerateResource.cache
+C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.AssemblyInfoInputs.cache
+C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.AssemblyInfo.cs
+C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.csproj.CoreCompileInputs.cache
+C:\Users\buidi\source\repos\bai5-11\bai5-11\bin\Debug\net8.0-windows\bai5-11.exe
+C:\Users\buidi\source\repos\bai5-11\bai5-11\bin\Debug\net8.0-windows\bai5-11.deps.json
+C:\Users\buidi\source\repos\bai5-11\bai5-11\bin\Debug\net8.0-windows\bai5-11.runtimeconfig.json
+C:\Users\buidi\source\repos\bai5-11\bai5-11\bin\Debug\net8.0-windows\bai5-11.dll
+C:\Users\buidi\source\repos\bai5-11\bai5-11\bin\Debug\net8.0-windows\bai5-11.pdb
+C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.dll
+C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\refint\bai5-11.dll
+C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.pdb
+C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.genruntimeconfig.cache
+C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\ref\bai5-11.dll
