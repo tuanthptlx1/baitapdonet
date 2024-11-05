@@ -15,3 +15,21 @@ C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\refint\bai5
 C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.pdb
 C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.genruntimeconfig.cache
 C:\Users\buidi\source\repos\bai5-11\bai5-11\obj\Debug\net8.0-windows\ref\bai5-11.dll
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\bin\Debug\net8.0-windows\bai5-11.exe
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\bin\Debug\net8.0-windows\bai5-11.deps.json
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\bin\Debug\net8.0-windows\bai5-11.runtimeconfig.json
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\bin\Debug\net8.0-windows\bai5-11.dll
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\bin\Debug\net8.0-windows\bai5-11.pdb
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5_11.Customer.resources
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5_11.Form1.resources
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.csproj.GenerateResource.cache
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.GeneratedMSBuildEditorConfig.editorconfig
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.AssemblyInfoInputs.cache
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.AssemblyInfo.cs
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.csproj.CoreCompileInputs.cache
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.sourcelink.json
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.dll
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\refint\bai5-11.dll
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.pdb
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\bai5-11.genruntimeconfig.cache
+E:\luu upload\baitapdonet\noiluubaitap\bai5-11\bai5-11\obj\Debug\net8.0-windows\ref\bai5-11.dll
