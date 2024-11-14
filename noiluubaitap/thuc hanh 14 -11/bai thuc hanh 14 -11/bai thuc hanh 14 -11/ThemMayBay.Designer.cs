@@ -97,7 +97,7 @@
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(111, 58);
             this.btnThem.TabIndex = 8;
-            this.btnThem.Text = "Thêm ";
+            this.btnThem.Text = "add";
             this.btnThem.UseVisualStyleBackColor = true;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
@@ -118,7 +118,7 @@
             this.dataGridViewMayBay.Name = "dataGridViewMayBay";
             this.dataGridViewMayBay.RowHeadersWidth = 51;
             this.dataGridViewMayBay.RowTemplate.Height = 24;
-            this.dataGridViewMayBay.Size = new System.Drawing.Size(529, 345);
+            this.dataGridViewMayBay.Size = new System.Drawing.Size(593, 345);
             this.dataGridViewMayBay.TabIndex = 10;
             // 
             // ThemMayBay

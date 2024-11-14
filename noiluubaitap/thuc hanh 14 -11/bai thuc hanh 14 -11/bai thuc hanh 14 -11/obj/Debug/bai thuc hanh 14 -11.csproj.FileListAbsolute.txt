@@ -24,3 +24,16 @@ C:\Users\buidi\Documents\Zalo Received Files\thuc hanh 14 -11\bai thuc hanh 14 -
 C:\Users\buidi\Documents\Zalo Received Files\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.csproj.CoreCompileInputs.cache
 C:\Users\buidi\Documents\Zalo Received Files\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.exe
 C:\Users\buidi\Documents\Zalo Received Files\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.pdb
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\bin\Debug\bai thuc hanh 14 -11.exe.config
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\bin\Debug\bai thuc hanh 14 -11.exe
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\bin\Debug\bai thuc hanh 14 -11.pdb
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.csproj.AssemblyReference.cache
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.MayBay.resources
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.Properties.Resources.resources
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.QuanLyMayBay.resources
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.SuaMayBay.resources
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.ThemMayBay.resources
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.csproj.GenerateResource.cache
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.csproj.CoreCompileInputs.cache
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.exe
+E:\luu upload\baitapdonet\noiluubaitap\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.pdb

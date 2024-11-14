@@ -109,7 +109,7 @@
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(111, 74);
             this.btnSua.TabIndex = 7;
-            this.btnSua.Text = "Cập Nhật";
+            this.btnSua.Text = "edit";
             this.btnSua.UseVisualStyleBackColor = true;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
